@@ -1,0 +1,17 @@
+/* Created by: Katie
+* Created on: March 2022
+* This CSS file defines the style for index.php
+* ICS2O-Unit2-04-HTML-AreaPer-UserInput
+*/
+
+h1 {
+  color: midnightblue;
+  background-color: lavenderblush;
+  border: 5px double midnightblue;
+}
+
+body {
+  background-color: lightcoral;
+}
+
+
